@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ships>
+    <ship id="1">
+        <shipName>Быстрый</shipName>
+        <containerQuantity>2</containerQuantity>
+        <maxContainerQuantity>5</maxContainerQuantity>
+        <containersToOtherShips>1</containersToOtherShips>
+
+    </ship>
+    <ship id="2">
+        <shipName>Бодрый</shipName>
+        <containerQuantity>3</containerQuantity>
+        <maxContainerQuantity>5</maxContainerQuantity>
+        <containersToOtherShips>2</containersToOtherShips>
+
+    </ship>
+    <ship id="3">
+        <shipName>Бойкий</shipName>
+        <containerQuantity>4</containerQuantity>
+        <maxContainerQuantity>5</maxContainerQuantity>
+        <containersToOtherShips>0</containersToOtherShips>
+
+    </ship>
+    <ship id="4">
+        <shipName>Решительный</shipName>
+        <containerQuantity>5</containerQuantity>
+        <maxContainerQuantity>5</maxContainerQuantity>
+        <containersToOtherShips>1</containersToOtherShips>
+
+    </ship>
+    <ship id="5">
+        <shipName>Ушлый</shipName>
+        <containerQuantity>1</containerQuantity>
+        <maxContainerQuantity>5</maxContainerQuantity>
+        <containersToOtherShips>2</containersToOtherShips>
+
+    </ship>
+</ships>
+
